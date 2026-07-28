@@ -1,0 +1,3 @@
+-- Reference copy of the schema. Already applied to project mtffmetaoneyadhlsgey.
+-- Kept in the repo so the database is reproducible.
+-- See migration history in the Supabase dashboard.
