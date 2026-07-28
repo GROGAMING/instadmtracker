@@ -4,7 +4,7 @@ Instagram DM outreach tracker for GAA club reps.
 
 Screens: **Today** (follow-ups due), **Add** (new lead), **Pipeline** (everything by status).
 
-- Next.js 15 (App Router) · Supabase (auth + Postgres) · Vercel
+- Next.js 15 (Appgggg Router) · Supabase (auth + Postgres) · Vercel
 - Database: project `mtffmetaoneyadhlsgey`
 - Statuses: Not messaged → Sent → Follow up → Link sent, or Closed at any point
 - A Sent lead with no reply after 14 days is marked cold and can be bulk-closed
